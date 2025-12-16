@@ -1,0 +1,9 @@
+*   [React](https://react.dev/)
+*   [Create React App](https://create-react-app.dev/)
+
+
+*   Fetching real-time data from an API.
+*   Support for multiple rooms.
+*   User authentication.
+*   Styling improvements.
+*   Error handling and loading states.
