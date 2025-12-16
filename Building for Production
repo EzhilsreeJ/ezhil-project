@@ -1,4 +1,1 @@
-This will open the application in your default browser at `http://localhost:3000`.
-
-
-To build the production-ready version of the application, run:
+npm run build
