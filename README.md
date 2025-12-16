@@ -1,0 +1,26 @@
+# react
+
+## Project Overview
+This is a React-based project for "Ezhil Room," a simple application likely intended for managing or displaying room-related information. The project is structured with standard React conventions, including components, public assets, and configuration files.
+
+## Project Structure
+```
+ezhil-room/
+├── public/
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── index.css
+│   ├── components/
+│   │   └── RoomDisplay.js
+│   └── assets/
+│       └── logo.svg
+├── package.json
+└── README.md
+```
+
+---
+
+Generated using **CodeArchitect**
